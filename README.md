@@ -4,6 +4,10 @@
 
 ---
 
+This is the v001 archive.
+
+---
+
 > Latest version always at: github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TRUE_AI
 
 ---
